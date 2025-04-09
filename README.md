@@ -11,9 +11,12 @@ This repo provides everything you need to get started.
 | File / Folder                      | Description |
 |-----------------------------------|-------------|
 | `small_belka_splits/`             | Cleaned and balanced `train.csv`, `val.csv`, `test.csv` files |
+| `small_belka_splits_900k/`        | A larger version of the problem; use it if you can, computationally. |
 | `starter_model.ipynb`             | A baseline model using ECFPs + Random Forest |
 | `belka_hint_exploration.ipynb`    | A deeper exploration notebook (shared later during the hackathon) |
 | `submission.csv` (optional)       | Example format for leaderboard submission |
+| `BELKA-mini-Overview.md`          | A detailed overview of the challenge |
+| `BELKA-mini-Dataset-Description.md`| A detailed description of the dataset |
 | `README.md`                       | You’re here! |
 
 ---
